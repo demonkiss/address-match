@@ -94,9 +94,8 @@
             this.runstate.AutoSize = true;
             this.runstate.Location = new System.Drawing.Point(61, 110);
             this.runstate.Name = "runstate";
-            this.runstate.Size = new System.Drawing.Size(83, 12);
+            this.runstate.Size = new System.Drawing.Size(0, 12);
             this.runstate.TabIndex = 12;
-            this.runstate.Text = "系统运行中...";
             // 
             // Form1
             // 
